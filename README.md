@@ -4,7 +4,7 @@
 - ⚡ Full stack javascript developer, secondary langs: java, c++
 - 🔭 Always keen on learning new technologies, it never stops..
 - 🌱 Open source contributor
-- :school: Learning c++
+- :school: Experimenting with c++
 - :star: https://www.linkedin.com/in/håkan-sundström/
 - :email: sundarenius@gmail.com
 - :necktie: Work github: https://github.com/hakkespro
