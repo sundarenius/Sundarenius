@@ -8,3 +8,4 @@
 - :star: https://www.linkedin.com/in/håkan-sundström/
 - :email: sundarenius@gmail.com
 - :necktie: Work github: https://github.com/hakkespro
+- Still figuring out a script that does all the work for me :stuck_out_tongue_winking_eye:
