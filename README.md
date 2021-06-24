@@ -8,4 +8,5 @@
 - :star: https://www.linkedin.com/in/håkan-sundström/
 - :email: sundarenius@gmail.com
 - :necktie: Work github: https://github.com/hakkespro
+- :zap: NPM: https://www.npmjs.com/~sundarenius
 - Building new CLI tools that work as my assistance :stuck_out_tongue_winking_eye:
