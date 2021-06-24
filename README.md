@@ -4,4 +4,6 @@
 - ⚡ Full stack javascript developer
 - 🔭 Always keen on learning new technologies, it never stops..
 - 🌱 Open source enthusiast
+- :school: Learning c++
+- :star: https://www.linkedin.com/in/håkan-sundström/
 - :email: sundarenius@gmail.com
