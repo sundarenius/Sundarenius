@@ -1,6 +1,7 @@
-## About Me
+## Håkan Sundström
 
 - 📫 Web (front-end) "hacker" at http://bambora.com/
 - ⚡ Full stack javascript developer
 - 🔭 Always keen on learning new technologies, it never stops..
 - 🌱 Open source enthusiast
+- :email: sundarenius@gmail.com
