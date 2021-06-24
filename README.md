@@ -1,4 +1,5 @@
 ## Håkan Sundström
+This is my personal github page, consists of smaller(and some bigger legacy repos) repos that I do for personal development. Does not contain any work related repos, mostly for experimenting, exploring and other cool stuffs like some CLI tools.
 
 - 📫 Web (front-end) "hacker" at http://bambora.com/
 - ⚡ Full stack javascript developer, secondary langs: java, c++
