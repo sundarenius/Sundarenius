@@ -9,4 +9,4 @@
 - :email: sundarenius@gmail.com
 - :necktie: Work github: https://github.com/hakkespro
 - :zap: NPM: https://www.npmjs.com/~sundarenius
-- Always building new CLI tools that makes life easier :stuck_out_tongue_winking_eye:
+- Always building new CLI tools to make life easier :stuck_out_tongue_winking_eye:
