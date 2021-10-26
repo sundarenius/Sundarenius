@@ -1,5 +1,5 @@
 ## Håkan Sundström
-This is a personal github page, consists of smaller experimental, some bigger, and a lot of private (too good to be public) ";)", repos. Does not contain any work related repos, this is for experimenting, exploring, and creating production ready "awesome" applications, and some other cool stuffs like some CLI tools.
+This is a personal github page, consists of smaller experimental, some bigger, and a lot of private (too good to be public) ";)" repos. Does not contain any work related repos, this is for experimenting, exploring, and creating production ready "awesome" applications, and some other cool stuffs like some CLI tools.
 
 - 📫 Web (front-end) "hacker" at http://bambora.com/
 - ⚡ Full stack javascript/typescript developer, secondary langs: java, c++
