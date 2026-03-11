@@ -6,25 +6,25 @@ I enjoy designing and building complete systems — from backend architecture an
 
 Most of my repositories are experiments, prototypes, tooling, and side projects. My main production work and SaaS projects live in private repositories.
 
-### What I work on
+### 🚀 What I work on
 
 - Building SaaS products
-- Backend systems and APIs (Node.js / TypeScript) + more..
+- Backend systems and APIs (Node.js / TypeScript) + more
 - Financial systems and automation
 - Job queues, workers, and distributed processing
 - Performance-focused services
 
-### Interests
+### 🧠 Interests
 
 - Clean system architecture
 - Automation and developer tooling
 - Financial software
 - Product engineering
 
-### Links
+### 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/håkan-sundström/
-- Email: sundarenius@gmail.com
+- Personal email: sundarenius@gmail.com
 - NPM: https://www.npmjs.com/~sundarenius
 
-Always building something.
+⚡ Always building something.
