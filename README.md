@@ -1,6 +1,6 @@
 ## Håkan Sundström
 
-🇸🇪 Stockholm, Sweden
+🇸🇪 Stockholm, Sweden.
 Full-stack software engineer and product builder.
 
 I enjoy designing and building complete systems — from backend architecture and APIs to frontend products used in production.
