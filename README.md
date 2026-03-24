@@ -5,14 +5,13 @@ Full-stack software engineer and product builder.
 
 I enjoy designing and building complete systems — from backend architecture and APIs to frontend products used in production.
 
-Most of my repositories are experiments, prototypes, tooling, and side projects. My main production work and SaaS projects live in private repositories.
+Many of my repos are experiments, prototypes, and tooling. I’m the founder of several widely used SaaS platforms, though my main production work remains in private repositories.
 
 ### 🚀 What I work on
 
 - Building SaaS products
-- Backend systems and APIs (Node.js / TypeScript) + more
+- Backend systems and APIs (Node.js / TypeScript / Java / GO) + more
 - Financial systems and automation
-- Job queues, workers, and distributed processing
 - Performance-focused services
 
 ### 🧠 Interests
