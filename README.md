@@ -1,22 +1,23 @@
 ## Håkan Sundström
 
-🇸🇪 Stockholm, Sweden.
-Full-stack software engineer and product builder.
+🇸🇪 Stockholm, Sweden  
+Software Engineer at DoiT International — building awesome stuff for the cloud.  
+Full-stack engineer and product builder.
 
-I enjoy designing and building complete systems — from backend architecture and APIs to frontend products used in production.
+I design and build complete systems — from backend architecture and APIs to production-grade frontend applications.
 
-Many of my repos are experiments, prototypes, and tooling. I’m the founder of several widely used SaaS platforms, though my main production work remains in private repositories.
+Most of what I build publicly are experiments, prototypes, and developer tooling. My primary production work lives in private repositories, where I’ve built and contributed to several widely used SaaS platforms.
 
 ### 🚀 What I work on
 
-- Building SaaS products
-- Backend systems and APIs (Node.js / TypeScript / Java / GO) + more
+- SaaS product development
+- Scalable backend systems and APIs (Node.js, TypeScript, Java, Go)
+- Cloud-native and performance-focused services
 - Financial systems and automation
-- Performance-focused services
 
 ### 🧠 Interests
 
-- Clean system architecture
+- Clean and scalable system architecture
 - Automation and developer tooling
 - Financial software
 - Product engineering
@@ -24,7 +25,7 @@ Many of my repos are experiments, prototypes, and tooling. I’m the founder of 
 ### 🔗 Links
 
 - LinkedIn: https://www.linkedin.com/in/håkan-sundström/
-- Personal email: sundarenius@gmail.com
+- Email: sundarenius@gmail.com
 - NPM: https://www.npmjs.com/~sundarenius
 
-⚡ Always building something.
+⚡ Always building.
